@@ -61,7 +61,7 @@ EZShop i a software application to:
 
 ## Context Diagram
 
-![ContextDiagram](/Deliverables/immagini/contextdiagram.png)
+![ContextDiagram](/ezshop-master/Deliverables/immagini/contextdiagram.png)
 
 ## Interfaces
 
