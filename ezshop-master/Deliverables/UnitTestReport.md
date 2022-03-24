@@ -1119,7 +1119,7 @@ Version: 1
 ### Code coverage report
 
 ###
-![coverage](/Deliverables/immagini/coverage.png)
+![coverage](/ezshop-master//Deliverables/immagini/coverage.png)
 
 
 
