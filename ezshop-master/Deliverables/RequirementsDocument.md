@@ -579,7 +579,7 @@ She is also interested in having a valuable report of how many items are sold du
 
 # Glossary
  
-![Glossary](/Deliverables/immagini/Glossary.png)
+![Glossary](/ezshop-master//Deliverables/immagini/Glossary.png)
 
 # System Design
 
@@ -587,5 +587,5 @@ No System Design since EZShop is a Software product.
 
 # Deployment Diagram 
 
-![DeploymentDiagram](/Deliverables/immagini/dep_diagram.png)
+![DeploymentDiagram](/ezshop-master//Deliverables/immagini/dep_diagram.png)
 
