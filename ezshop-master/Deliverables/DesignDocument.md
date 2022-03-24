@@ -444,7 +444,7 @@ class MyReturnTransaction{
 
 # Verification traceability matrix
 
-![Traceabilitymatrix](/Deliverables/immagini/TraceabilityMatrix.png)
+![Traceabilitymatrix](/ezshop-master//Deliverables/immagini/TraceabilityMatrix.png)
 
 
 # Verification sequence diagrams 
