@@ -13,7 +13,7 @@ with all elements explosed, all dependencies, NO tangles; and report it here as 
 ```
 
 ### 
-![LSM](/Deliverables/immagini/LSM.png)
+![LSM](/ezshop-master//Deliverables/immagini/LSM.png)
 
 
 # Structural over complexity chart
@@ -22,7 +22,7 @@ with all elements explosed, all dependencies, NO tangles; and report it here as 
 ```
 
 ### 
-![StructuralOverComplexityChart](/Deliverables/immagini/StructuralOverComplexityChart.png)
+![StructuralOverComplexityChart](/ezshop-master//Deliverables/immagini/StructuralOverComplexityChart.png)
 
 
 # Size metrics
