@@ -9,5 +9,5 @@ Date: 01/04/2021
 
 Version: 1
 
-![GUI_EZShop](/Deliverables/immagini/GUI_EZShop.png)
+![GUI_EZShop](/ezshop-master//Deliverables/immagini/GUI_EZShop.png)
 
