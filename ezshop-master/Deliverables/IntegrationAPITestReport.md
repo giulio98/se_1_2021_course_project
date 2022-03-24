@@ -28,7 +28,7 @@ Version: 1
 
      <report the here the dependency graph of the classes in EzShop, using plantuml>
 ### 
-![DependencyGraph](/Deliverables/immagini/DependencyGraph.png)
+![DependencyGraph](/ezshop-master//Deliverables/immagini/DependencyGraph.png)
      
 # Integration approach
 
@@ -499,6 +499,6 @@ Report also for each of the scenarios the (one or more) API JUnit tests that cov
 |        NFR5                |     testReceiveCreditCardPayment()      |
 |        NFR6                |     testCreateCard(),  testAttachCardToCustomer(), testModifyPointsOnCard()     |
 
-![NFRa](/Deliverables/immagini/NFRa.jpeg)
-![NFRb](/Deliverables/immagini/NFRb.jpeg)
+![NFRa](/ezshop-master//Deliverables/immagini/NFRa.jpeg)
+![NFRb](/ezshop-master//Deliverables/immagini/NFRb.jpeg)
 
