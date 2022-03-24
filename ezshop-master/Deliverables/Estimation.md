@@ -35,4 +35,4 @@ The estimation by product decomposition allows us to estimate the size of the pr
 
 
 ###
-![Gantt](/Deliverables/immagini/Gantt.jpg)
+![Gantt](/ezshop-master//Deliverables/immagini/Gantt.jpg)
