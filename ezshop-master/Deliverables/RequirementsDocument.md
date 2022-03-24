@@ -173,7 +173,7 @@ She is also interested in having a valuable report of how many items are sold du
 
 ## Use case diagram
 
-![UseCase](/Deliverables/immagini/UseCaseDiagram.png)
+![UseCase](/ezshop-master//Deliverables/immagini/UseCaseDiagram.png)
 
 ### Use case 1, UC1
 | Actors Involved        | User |
